@@ -19,6 +19,7 @@
 <!-- SOCIAL LINKS -->
 <p>
 <a href="https://www.linkedin.com/in/kuldeepsingh77/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://medium.com/@kuldeep07"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a> <a href="mailto:kulsin07@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> 
+<a href="https://u8views.com/github/kooldeep07"><img src="https://u8views.com/api/v1/github/profiles/175098952/views/day-week-month-total-count.svg"></a>
 </p>
 
 </div>

@@ -160,8 +160,6 @@
 
 📫 **Reach out** — I'd love to hear from you!
 
-<a href="https://u8views.com/github/kooldeep07"><img src="https://u8views.com/api/v1/github/profiles/175098952/views/day-week-month-total-count.svg"></a>
-
 </div>
 
 ---
@@ -171,5 +169,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
 
 **⭐ From [kooldeep07](https://github.com/kooldeep07) with ❤️**
+
+<a href="https://u8views.com/github/kooldeep07"><img src="https://u8views.com/api/v1/github/profiles/175098952/views/day-week-month-total-count.svg"></a>
 
 </div>
